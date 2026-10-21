@@ -1,19 +1,23 @@
 # Code of Conduct
 
-Grimmoir Organization aims to maintain a respectful and constructive environment for collaboration.
+Grimmoir Organization aims to keep project spaces constructive, technical, and respectful.
 
-Participants are expected to:
+## Expected
 
-- communicate respectfully,
-- provide constructive technical feedback,
-- respect different perspectives and levels of experience,
-- keep discussions relevant to the project,
-- avoid harassment, threats, discrimination, personal attacks, or deliberate disruption.
+Participants should:
 
-Technical disagreement is acceptable.
+- communicate respectfully;
+- keep discussion relevant to the project;
+- give constructive feedback;
+- respect different perspectives and levels of experience;
+- disagree with ideas without attacking people.
 
-Personal attacks are not.
+## Unacceptable
 
-Maintainers may moderate, restrict, or remove participation that significantly disrupts a project or its community.
+Harassment, threats, discrimination, targeted abuse, deliberate disruption, and publication of another person's private information are not acceptable.
 
-Project-specific codes of conduct may replace or extend this policy.
+## Moderation
+
+Project maintainers may edit, hide, lock, remove, or restrict participation when necessary to protect a project's community or development process.
+
+Repository-specific conduct policies may extend or replace this organization-wide default.

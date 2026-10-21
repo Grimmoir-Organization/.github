@@ -1,29 +1,28 @@
 # Security Policy
 
-Security issues should be handled responsibly.
+Grimmoir Organization encourages responsible reporting of security vulnerabilities.
 
-If you believe you have discovered a security vulnerability in a Grimmoir Organization project, please avoid publicly disclosing sensitive technical details before the issue can be reviewed.
+## Reporting
 
-Where available, use the repository's private security reporting mechanism.
+If a repository provides GitHub Private Vulnerability Reporting, use it when possible.
 
-If private vulnerability reporting is not available, use the contact method provided by the relevant repository or organization.
+Otherwise, use the security contact method documented by the affected repository or organization.
 
-## Please Include
+Please do **not** publish exploitable vulnerability details in a public issue before maintainers have had an opportunity to review the report.
 
-When reporting a vulnerability, provide where possible:
+## Include
 
-- the affected repository,
-- affected version or commit,
-- a description of the vulnerability,
-- reproduction steps,
-- potential impact,
-- relevant logs or evidence,
-- suggested mitigation if known.
+A useful report may contain:
 
-Do not include credentials, private keys, personal data, or unrelated confidential information.
+- affected repository;
+- affected release, version, or commit;
+- vulnerability description;
+- reproduction steps or proof of concept;
+- expected impact;
+- suggested mitigation, if known.
+
+Do not include unrelated credentials, personal information, or confidential data.
 
 ## Scope
 
-Security policies may differ between repositories.
-
-A repository-specific `SECURITY.md` overrides this organization-wide policy.
+A repository-specific `SECURITY.md` overrides this default policy.

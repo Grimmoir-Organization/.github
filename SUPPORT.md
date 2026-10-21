@@ -1,15 +1,15 @@
 # Support
 
-Support availability differs between projects maintained under Grimmoir Organization.
+Support arrangements vary between Grimmoir Organization projects.
 
-Before requesting assistance:
+Before requesting help:
 
-1. Read the project's README and documentation.
-2. Search existing issues for similar questions or problems.
-3. Review any repository-specific support instructions.
+1. Read the repository README and documentation.
+2. Search existing issues and discussions.
+3. Review repository-specific support instructions.
 
-If the repository accepts support requests through GitHub Issues, provide a clear description of the problem and enough information to understand the environment in which it occurred.
+Where a project accepts support questions through GitHub Issues or Discussions, provide enough information for others to understand the problem and environment.
 
-Please avoid posting credentials, private information, access tokens, API keys, or other sensitive information.
+Do not publish credentials, tokens, private keys, or sensitive personal information.
 
-Support is provided on a best-effort basis unless explicitly stated otherwise by a specific project.
+Unless a repository states otherwise, support is provided on a best-effort basis.

@@ -1,59 +1,42 @@
-# Contributing to Grimmoir Organization Projects
+# Contributing
 
-Thank you for your interest in contributing to a project maintained under Grimmoir Organization.
+Thank you for considering a contribution to a project under Grimmoir Organization.
 
-Because projects within the organization may have different purposes, technologies, architectures, and development models, contribution requirements may vary between repositories.
+Projects may differ substantially in purpose, architecture, workflow, and maintenance model. For that reason, the repository you are contributing to is always the primary source of contribution requirements.
 
-## Before Contributing
+## Before You Start
 
-Before opening an issue or submitting a pull request:
+Please:
 
 1. Read the repository README and available documentation.
-2. Check existing issues and pull requests for similar discussions.
-3. Follow any repository-specific contribution instructions.
-4. Keep proposed changes focused on the purpose of the project.
+2. Check open and closed issues for related reports or proposals.
+3. Review repository-specific contribution instructions if present.
+4. Keep proposed changes focused and reasonably scoped.
 
 ## Issues
 
-When reporting a problem, provide enough information for the issue to be understood and reproduced where applicable.
+A useful issue should explain:
 
-Useful information may include:
+- what happened or what is being proposed;
+- what was expected;
+- how the behavior can be reproduced, if applicable;
+- relevant environment or version information;
+- supporting logs, screenshots, or examples where useful.
 
-- a clear description of the problem,
-- expected behavior,
-- actual behavior,
-- reproduction steps,
-- environment or platform information,
-- logs or screenshots where appropriate.
-
-Do not include passwords, credentials, API keys, private information, or other sensitive data.
-
-## Feature Requests
-
-Feature suggestions are welcome where the repository accepts them.
-
-Please explain:
-
-- the problem the feature would solve,
-- the proposed behavior,
-- why the change would benefit the project.
-
-Feature requests are suggestions and do not guarantee implementation.
+Never publish passwords, API keys, access tokens, private keys, or other sensitive information.
 
 ## Pull Requests
 
 Pull requests should:
 
-- address a specific issue or improvement,
-- avoid unrelated changes,
-- follow the existing project structure and style,
-- include relevant documentation where necessary,
-- remain reasonably scoped.
+- have a clear purpose;
+- avoid unrelated changes;
+- follow the existing project structure where practical;
+- include documentation or tests where the change requires them;
+- explain important design decisions when they are not obvious.
 
-Repository maintainers may request changes before accepting a pull request.
+Maintainers may request changes, decline a proposal, or redirect work according to the needs of the project.
 
-## Project-Specific Rules
+## Repository-Specific Rules
 
-Individual repositories may define contribution rules that replace or extend these guidelines.
-
-When repository-specific guidelines exist, those rules take precedence.
+If a repository contains its own `CONTRIBUTING.md`, that file takes precedence over this organization-wide default.
