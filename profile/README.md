@@ -20,7 +20,7 @@
 
 There is no fixed technology stack, field, or project category that defines the organization.
 
-Projects may exist as independent works, collaborative efforts, experiments, long-term systems, or maintained releases under the Grimmoir Organization umbrella.
+Projects may exist as independent works, collaborative efforts, experiments, long-term systems, or maintained releases under the Grimmoir Organization.
 
 ---
 
