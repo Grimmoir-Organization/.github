@@ -1,6 +1,6 @@
 # Grimmoir Organization · Community
 
-This repository contains the shared GitHub profile, community guidelines, issue forms, and contribution defaults used across Grimmoir Organization repositories.
+This repository contains the shared GitHub profile, community guidelines and contribution defaults used across Grimmoir Organization repositories.
 
 > This repository defines organization-wide defaults. Individual projects may override them where project-specific requirements exist.
 
@@ -13,8 +13,10 @@ This repository contains the shared GitHub profile, community guidelines, issue 
 | [`SECURITY.md`](SECURITY.md) | Default security reporting policy |
 | [`SUPPORT.md`](SUPPORT.md) | Default support guidance |
 | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Community conduct expectations |
-| [`.github/ISSUE_TEMPLATE`](.github/ISSUE_TEMPLATE) | Default issue forms |
-| [`.github/pull_request_template.md`](.github/pull_request_template.md) | Default pull-request template |
+
+## Community
+
+We want members and contributors to enjoy building, learning, and talking with each other. Our [public profile](profile/README.md) explains our culture, and our [Code of Conduct](CODE_OF_CONDUCT.md) sets expectations for keeping that community welcoming.
 
 ## Scope
 

@@ -16,11 +16,23 @@
 
 ## About
 
-**Grimmoir Organization** is an independent organization built around the creation, development, maintenance, and publication of projects.
+**Grimmoir Organization** is an independent organization where people can build projects, explore ideas, and enjoy creating things together.
 
 There is no fixed technology stack, field, or project category that defines the organization.
 
 Projects may exist as independent works, collaborative efforts, experiments, long-term systems, or maintained releases under the Grimmoir Organization.
+
+---
+
+## Our Culture
+
+We want Grimmoir Organization to be a place where people enjoy building things and spending time with each other.
+
+Share your ideas, try something unusual, show your unfinished work, and ask questions. You do not need to know everything before joining a conversation or starting a project.
+
+There is room for casual chats, jokes, friendships, and celebrating small wins. Help each other through the frustrating parts, give credit, and make everyone feel welcome.
+
+Build something you care about, learn along the way, and have fun together.
 
 ---
 
@@ -76,15 +88,20 @@ Individual repositories may use different terminology where appropriate.
 
 ## Collaboration
 
-Public repositories may accept issues, discussions, suggestions, or pull requests depending on the project.
+Questions, shared ideas, and conversations are welcome. You can contribute through code, documentation, testing, feedback, or helping someone understand a problem.
 
-Before contributing, review the repository's documentation and any project-specific contribution requirements.
+Use each project's available issues, discussions, or other documented channels. Keep issues and pull requests easy to follow, and use general or social spaces for longer casual conversations.
+
+Before contributing, review the repository's documentation and any project-specific contribution requirements. If you are unsure where to start, ask.
 
 Organization-wide community guidelines are maintained in the [`Grimmoir-Organization/.github`](https://github.com/Grimmoir-Organization/.github) repository.
 
 ---
 
 ## Principles
+
+**Enjoy building together**  
+Make room for curiosity, friendly conversations, and helping each other learn. People should feel comfortable participating at their own pace.
 
 **Project autonomy**  
 Each project may define its own architecture, workflow, attribution, and license.
@@ -104,6 +121,6 @@ The organization is intentionally not limited to a predefined field, technology,
 
 ### Grimmoir Organization
 
-*Projects define the work. The organization provides the ground for them to exist.*
+*Build what you care about. Learn from each other. Enjoy the process.*
 
 </div>

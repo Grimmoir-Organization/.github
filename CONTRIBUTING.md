@@ -1,8 +1,16 @@
 # Contributing
 
-Thank you for considering a contribution to a project under Grimmoir Organization.
+Thanks for taking an interest in a project under Grimmoir Organization. We welcome people who want to build, learn, share ideas, and help each other.
 
 Projects may differ substantially in purpose, architecture, workflow, and maintenance model. For that reason, the repository you are contributing to is always the primary source of contribution requirements.
+
+## Everyone Starts Somewhere
+
+You do not need to be an expert to contribute. Questions, suggestions, documentation fixes, testing, and small improvements all help.
+
+If you are unsure where to begin, ask in the repository's available discussion space or a relevant issue. For a larger idea, start a conversation before spending a lot of time on it.
+
+Share what you have tried, be open to feedback, and help others when you can. Mistakes are part of learning, and your first attempt does not have to be perfect.
 
 ## Before You Start
 
